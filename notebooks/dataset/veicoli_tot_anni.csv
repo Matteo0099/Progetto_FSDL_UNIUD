@@ -1,0 +1,56 @@
+Anni,Autovetture,Autocarri,Autobus,Totale,Densità, Rimorchi(1),,,,,
+,,,,,n° abitanti, e,,,,,
+,,,,,per autoveic.*, Semirimorchi,,,,,
+Years,Pass. Cars,Trucks,Buses,Total,Density *, Trailers(1)/Semitr.,,,,,
+1990 ,27.415.828 ,2.416.772 ,77.731 ,29.910.331 ,"1,9 ",670.116 ,,,,,
+1991 ,28.434.923 ,2.519.621 ,78.649 ,31.033.193 ,"1,8 ",697.155 ,,,,,
+1992 ,29.429.628 ,2.605.948 ,78.179 ,32.113.755 ,"1,8 ",713.402 ,,,,,
+1993 ,29.652.024 ,2.644.036 ,76.974 ,32.373.034 ,"1,8 ",714.006 ,,,,,
+1994 ,29.665.308 ,2.713.448 ,76.076 ,32.454.832 ,"1,8 ",754.860 ,,,,,
+1995 ,30.301.424 ,2.788.432 ,75.023 ,33.164.879 ,"1,7 ",764.600 ,,,,,
+1996 ,29.910.932 ,2.965.455 ,80.610 ,32.956.997 ,"1,7 ",809.239 ,,,,,
+1997 ,30.154.914 ,3.061.011 ,81.478 ,33.297.403 ,"1,7 ",817.242 ,,,,,
+1998 ,31.057.070 ,3.187.903 ,83.521 ,34.328.494 ,"1,7 ",814.936 ,,,,,
+1999 ,32.038.292 ,3.328.061 ,85.762 ,35.452.115 ,"1,6 ",799.570 ,,,,,
+2000 ,32.583.815 ,3.493.531 ,87.956 ,36.165.302 ,"1,6 ",812.190 ,,,,,
+2001 ,33.239.029 ,3.665.694 ,89.858 ,36.994.581 ,"1,5 ",827.238 ,,,,,
+2002 ,33.706.153 ,3.884.322 ,91.716 ,37.682.191 ,"1,5 ",842.918 ,,,,,
+2003 ,34.310.446 ,4.073.332 ,92.701 ,38.476.479 ,"1,5 ",855.438 ,,,,,
+2004 ,33.973.147 ,4.158.025 ,92.874 ,38.224.046 ,"1,5 ",809.037 ,,,,,
+2005 ,34.667.485 ,4.327.832 ,94.437 ,39.089.754 ,"1,5 ",811.832 ,,,,,
+2006 ,35.297.282 ,4.483.451 ,96.099 ,39.876.832 ,"1,5 ",814.042 ,,,,,
+2007 ,35.680.097 ,4.591.550 ,96.419 ,40.368.066 ,"1,5 ",818.134 ,,,,,
+2008 ,36.105.183 ,4.691.711 ,97.597 ,40.894.491 ,"1,5 ",823.931 ,,,,,
+,,,,,,,,,,,
+2009 ,36.371.790 ,4.742.017 ,98.724 ,41.212.531 ,"1,5 ",343.112(2),,,,,Bilancio demografico anno
+2010 ,36.751.311 ,4.798.671 ,99.895 ,41.649.877 ,"1,5 ",345.618 ,,Totale al 1-gen,,Diff rispetto a.p.,Anno 
+2011 ,37.113.300 ,4.853.340 ,100.438 ,42.067.078 ,"1,41 ",353.376 ,,59.394.207,,,
+2012 ,37.078.274 ,4.822.175 ,99.537 ,41.999.986 ,"1,42 ",351.665 ,,59.685.227,,291.020,2012
+2013 ,36.962.934 ,4.768.449 ,98.551 ,41.829.934 ,"1,45 ",347.108 ,,60.782.668,,1.097.441,2013
+2014 ,37.080.753 ,4.767.253 ,97.914 ,41.945.920 ,"1,45 ",348.007 ,,60.795.612,,12.944,2014
+2015 ,37.351.233 ,4.792.710 ,97.991 ,42.241.934 ,"1,44 ",354.457 ,,60.665.551,,-130.061,2015
+2016 ,37.876.138 ,4.888.091 ,97.817 ,42.862.046 ,"1,41 ",365.401 ,,60.589.445,,-76.106,2016
+2017 ,38.520.321 ,4.978.494 ,99.100 ,43.597.915 ,"1,39 ",379.540 ,,60.483.973,,-105.472,2017
+2018 ,39.018.170 ,5.050.514 ,100.042 ,44.168.726 ,"1,37 ",393.278 ,,60.359.546,,,
+2019 ,39.545.232 ,5.119.374 ,100.149 ,44.764.755 ,"1,35 ",405.398 ,,60.244.639,,-239.334,2018
+2020 ,39.717.874 ,5.181.924 ,99.883 ,44.999.681 ,"1,32 ",414.798 ,,59.257.566,,,
+2021 ,39.822.723 ,5.074.038 ,100.199 ,44.996.960 ,"1,31 ",429.230 ,,58.983.122,,-274.444,
+2022 ,40.213.061 ,5.159.187 ,100.014 ,45.472.262 ,"1,30 ",444.730 ,,58.997.201,,,
+2023 ,40.915.229 ,5.281.551 ,100.078 ,46.296.858 ,"1,27 ",458.174 ,,58.989.749,,,
+,,,,,, Fonte/Source: ACI,,156.906.446 ,,,
+* dato della popolazione residente post censimento/* population resident post census,,,,,,,,,,,
+(1) sono compresi i rimorchi uso campeggio/(1) trailers for camping included,,,,,,,,39.027.908 ,,,
+"(2) dal 2009 non vengono più conteggiati i rimorchi con PTT < 3,5 t./(2) from 2009 are no longer counted trailers with GVW less than 3.5 tons",,,,,,,,"37436041,33",,1.024.911 ,795.385 
+"Nota1: a seguito della modifica dei criteri del pagamento della tassa di circolazione (legge n.53 del 28/2/1983), a partire dal 1983 i dati rilevati dall'ACI non",,,,,,,,"4,3",,,"28,85722009"
+"sono più riferiti all'effettiva circolazione del parco veicoli, ma a tutti quei veicoli che, iscritti nei Pubblici Registri, debbono pagare la tassa automobilistica",,,,,,,,,,,
+"a prescindere dalla effettiva circolazione. Con la mutata metodologia, in particolare dal 1985, consolidata la gestione degli archivi, le statistiche sull'iscritto",,,,,,,,,,,
+"al P.R.A. raggiungono un primo assestamento. Risultano, pertanto, essere conteggiati anche quei veicoli in condizione di  esenzione (veicoli d'epoca, veicoli",,,,,,,,,,,
+"ambasciate, protezione civile, ecc.) o in sospensiva di imposta in giacenza presso i rivenditori.",,,,,,,,,,,
+"Note1: following the amendment of the criteria for payment of the vehicle tax from 1983 onwards, data collected by  ACI  no longer relate to the actual ",,,,,,,,,,,
+"running of the vehicle fleet but to all those vehicles that, registered in the Public Registers, have to pay the car tax. Whith the changed methodology, in",,,,,,,,,,,
+"with the changed methodology, in particular since 1985, consolidated the management of archives, statistics  on  enrolment  in  the P.R.A. reach  a  first",,,,,,,,,,,
+"adjustment. Vehicles which are exempted (vintage vehicles, embassy vehicles, civil protection, etc.) or which are in stock with dealers are also included.",,,,,,,,,,,
+"Nota2: (Dati anno 2004) per alcune categorie di veicoli, la consistenza del parco si è ridotta perché l'ACI ha portato a termine un'operazione di radiazioni di",,,,,,,,,,,
+ufficio dal Pubblico Registro per i veicoli che non hanno pagato la Tassa automobilistica per almeno tre anni consecutivi.,,,,,,,,,,,
+"Note2: (Year 2004 data) for certain categories of vehicles, fleet size has decreased because the ACI has completed  a  office  radiation  operation  from the ",,,,,,,,,,,
+Public Register for vehicles that have not paid the Car Tax for at least three consecutive years.,,,,,,,,,,,
